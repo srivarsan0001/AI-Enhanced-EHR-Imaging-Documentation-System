@@ -1,6 +1,6 @@
 # AI-Powered Enhanced EHR Imaging & Documentation System
 
-**Project Status:**(In Development)
+**Project Status:**
 
 ## Project Overview
 
@@ -55,13 +55,12 @@ The project is structured into four distinct modules to manage development and i
     * Integrate the solution with existing hospital EHR systems for image processing and note generation.
     * Provide necessary onboarding and training sessions for medical staff to ensure effective use of the new tools.
 
-## Getting Started (Example Placeholder)
+## Getting Started
 
 Detailed instructions for setup and local development will be added here.
 
 **Prerequisites:**
 * Python 3.x
-* (Other dependencies)
 
 **Installation:**
 ```bash
