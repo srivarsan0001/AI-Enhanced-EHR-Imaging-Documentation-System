@@ -69,3 +69,8 @@ git clone [repository-url]
 cd AI-Powered-EHR
 # Install dependencies
 pip install -r requirements.txt
+# In Command Prompt Type:
+python -m http.server 8000
+#In website Type:
+http://localhost:8000/#
+
